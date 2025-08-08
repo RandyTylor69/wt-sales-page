@@ -14,7 +14,7 @@ export default function Process() {
         />
       </div>
 
-      <section className="flex flex-col gap-16 w-full px-6 sm:px-5 md:px-10 lg:px-20 xl:px-90">
+      <section className="flex flex-col gap-16 w-full px-6 sm:px-5 md:px-10 lg:px-20 xl:px-70">
         <div className="uppercase flex flex-col w-full">
           <h1 className="text-3xl text-red-500">process</h1>
           <p className="tracking-tightest text-6xl">how it works</p>

@@ -4,7 +4,7 @@ export default function Features() {
     <div className="flex h-auto w-auto flex-col gap-16 py-20">
       <header className="flex w-full flex-col px-6 uppercase sm:px-5 md:px-10 lg:px-20 xl:px-70">
         <h1 className="text-3xl text-red-500">features</h1>
-        <p className="tracking-tightest text-6xl">what's included</p>
+        <p className="tracking-tightest text-6xl">what's included:</p>
       </header>
       <div className="flex flex-col gap-12 px-6 sm:flex-row sm:px-5 md:px-10 lg:px-20 xl:px-70">
         <Image
@@ -17,7 +17,7 @@ export default function Features() {
           className="object-fit"
         />
 
-        <section className="flex flex-col gap-4 justify-around">
+        <section className="flex flex-col gap-12 sm:gap-4 justify-around">
           {/* -------- 01 ---------- */}
           <article className="flex flex-col">
             <p className="text-bold text-2xl font-medium uppercase">
