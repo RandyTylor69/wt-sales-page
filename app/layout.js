@@ -16,7 +16,8 @@ const inter = Inter({
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${kenyan_coffee.variable} ${inter.className}`}>
-      <body>{children}</body>
+      <body className="bg-orange-100 min-h-screen" 
+      >{children}</body>
     </html>
   );
 }

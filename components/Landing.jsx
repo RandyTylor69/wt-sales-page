@@ -6,7 +6,7 @@ export default function Landing() {
       }}
       className="h-screen w-auto bg-cover bg-[20%_center] md:bg-center"
     >
-      <section className="absolute bottom-20 md:right-20 md:top-50 flex w-100 flex-col gap-10 p-10 lg:right-60 2xl:right-120">
+      <section className="absolute bottom-20 md:right-40 md:top-50 flex w-100 flex-col gap-10 p-10 lg:right-60 2xl:right-120">
         <h1 className="text-5xl md:text-7xl lg:text-8xl text-red-600 uppercase">
           a better way to host tournaments.
         </h1>
