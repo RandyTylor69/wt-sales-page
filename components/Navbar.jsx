@@ -18,7 +18,7 @@ export default function Navbar() {
         </label>
 
         {/* ---------- expanded nav bar  ----------*/}
-        <nav className="mt-50 hidden w-50 p-4 peer-checked:block peer-checked:bg-black/10 peer-checked:backdrop-blur-md sm:mt-0 sm:block">
+        <nav className="mt-60 hidden w-50 p-4 peer-checked:absolute peer-checked:left-0 peer-checked:block peer-checked:bg-black/10 peer-checked:backdrop-blur-md sm:mt-0 sm:block">
           <ul className="flex flex-col gap-x-12 gap-y-6 text-sm font-bold text-white uppercase sm:flex-row sm:gap-x-8">
             <li>
               <a href="#services">services</a>
