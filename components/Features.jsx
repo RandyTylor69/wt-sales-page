@@ -8,9 +8,7 @@ export default function Features() {
       </header>
       <div className="flex flex-col gap-12 px-6 sm:flex-row sm:px-5 md:px-10 lg:px-20 xl:px-70">
         <Image
-          src={
-            "https://cdn.discordapp.com/attachments/759795616539738156/1403387705685180550/Screenshot_2024-09-11_at_4.26.49_PM_3.png?ex=68975e26&is=68960ca6&hm=287228edf01bdc806175fd8907b59532204d2ab89812a5d7cd44f9980dd46e76&"
-          }
+          src="/images/features.png"
           alt="features image"
           width={400}
           height={400}

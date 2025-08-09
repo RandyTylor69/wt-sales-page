@@ -36,9 +36,7 @@ export default function Pricing() {
         </article>
 
         <Image
-          src={
-            "https://cdn.discordapp.com/attachments/759795616539738156/1403395491906981898/Screenshot_2024-09-11_at_1.52.55_PM_2.png?ex=68976567&is=689613e7&hm=e2baeb4497d0afe7dfe2e2c2f52751c58a3632a82b5354569df4cb0479c660e4&"
-          }
+          src="/images/pricing.png"
           alt="pricing image"
           width={600}
           height={600}

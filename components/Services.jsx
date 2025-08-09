@@ -18,8 +18,8 @@ export default function Services() {
           </a>
           <div className="flex flex-col sm:flex-row p-4 justify-center gap-4 mx-l-0 mx-r-8 md:mx-l-12 md:mx-r-0">
             <Image
-              src="https://cdn.discordapp.com/attachments/759795616539738156/1403157386755182735/AJ7I7724-Enhanced-NR_2.png?ex=689687a6&is=68953626&hm=ea0c3f3e2bc848709c6be1d7d2b08f099b955e65d0d3104bf584fa27711d4d3d&"
-              alt="war zone img"
+              src="/images/s1.png"
+              alt="warzone image"
               height={300}
               width={300}
               className="object-cover"
@@ -45,8 +45,8 @@ export default function Services() {
           </a>
           <div className="flex flex-col sm:flex-row p-4 justify-center gap-4 mx-l-0 mx-r-8 md:mx-l-12 md:mx-r-0">
             <Image
-              src="https://cdn.discordapp.com/attachments/759795616539738156/1403157388134973602/3f768d241b1cc1fd5bee78b4d0017a18_2.png?ex=689687a6&is=68953626&hm=c51a1ac262814899927e842f7068eeef0b046541df989ee8ec191b7fa0ada44c&"
-              alt="war zone img"
+              src="/images/s2.png"
+              alt="rapid brackets img"
               height={300}
               width={300}
               className="object-cover"
@@ -70,8 +70,8 @@ export default function Services() {
           </a>
           <div className="flex flex-col sm:flex-row p-4 justify-center gap-4 mx-l-0 mx-r-8 md:mx-l-12 md:mx-r-0">
             <Image
-              src="https://cdn.discordapp.com/attachments/759795616539738156/1403157387677798460/DSC07218-Enhanced-NR_2.png?ex=689687a6&is=68953626&hm=7fa3a267a8062671a125b382da9e167188612d9388eb611a590f35b239f41ba7&"
-              alt="war zone img"
+              src="/images/s3.png"
+              alt="trad brackets img"
               height={300}
               width={300}
               className="object-cover"
@@ -95,8 +95,8 @@ export default function Services() {
           </a>
           <div className="flex p-4 flex-col sm:flex-row justify-center gap-4 mx-l-0 mx-r-8 md:mx-l-12 md:mx-r-0">
             <Image
-              src="https://cdn.discordapp.com/attachments/759795616539738156/1403157387195449525/DSC06935_2.png?ex=689687a6&is=68953626&hm=151393066544222f2429ed52501f30e4d89595d0e660d5c1a7f7ff4c8ffbfc73&"
-              alt="war zone img"
+              src="/images/s4.png"
+              alt="DM tournaments img"
               height={300}
               width={300}
               className="object-cover"

@@ -5,9 +5,7 @@ export default function Process() {
     <div className="flex h-auto w-auto flex-col items-center justify-around gap-16 py-20">
       <div className="relative w-[80vw] h-[20vw]">
         <Image
-          src={
-            "https://cdn.discordapp.com/attachments/759795616539738156/1403173881560170587/Mask_group.png?ex=68969703&is=68954583&hm=1d8bd05ade60a17547a8039044bec6788180456e573dc439876810b5ba5e37d1&"
-          }
+          src="/images/process.png"
           fill
           className="object-fit"
           alt="process image"

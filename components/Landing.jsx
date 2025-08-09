@@ -3,7 +3,7 @@ export default function Landing() {
   return (
     <div
       style={{
-        backgroundImage: `url('https://cdn.discordapp.com/attachments/759795616539738156/1403095022718550077/landing-page-img-improved.png?ex=68964d91&is=6894fc11&hm=464d8ed36d18cb6fc5bbb26a5df5e4028a0d7d1e9e844b165d06aa380c5f6f94&')`,
+        backgroundImage: "url('/images/landing.png')",
       }}
       className="h-screen w-auto bg-cover bg-[20%_center] md:bg-center"
     >
