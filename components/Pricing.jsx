@@ -22,7 +22,7 @@ export default function Pricing() {
           <div className="flex flex-col gap-4">
             <Link href={"/placeholder"}>
               {" "}
-              <button className="ease w-fit cursor-pointer rounded-2xl border-2 border-black bg-black px-3 py-2 text-orange-100 uppercase duration-300 hover:bg-orange-100 hover:text-black">
+              <button className="ease w-fit cursor-pointer rounded-2xl border-2 border-black bg-black px-3 py-2 text-white uppercase duration-300 hover:bg-white hover:text-black">
                 set up an event
               </button>
             </Link>
